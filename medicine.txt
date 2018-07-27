@@ -1,0 +1,32 @@
+Medicine ID:M042
+Medicine Name:Lexapro
+Company Name:Bryant Ranch Prepack
+Batch:303
+DOM:Feb 5, 2018
+DOE:Sep 22, 2019
+Price:60.0
+Quantity:18
+Medicine ID:M001
+Medicine Name:JUSPRIN 300MG
+Company Name:Julphar
+Batch:50
+DOM:Feb 15, 2016
+DOE:May 12, 2018
+Price:30.0
+Quantity:20
+Medicine ID:M003
+Medicine Name:ASPIRIN
+Company Name:Birzeit
+Batch:57
+DOM:Jun 15, 2016
+DOE:Apr 15, 2018
+Price:27.0
+Quantity:11
+Medicine ID:M005
+Medicine Name:disprin
+Company Name:RIYADH PHARMA
+Batch:93
+DOM:Jan 21, 2015
+DOE:Apr 24, 2018
+Price:24.9
+Quantity:9

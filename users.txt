@@ -1,0 +1,9 @@
+username:1a
+password:1a
+role:Admin
+username:2p
+password:2p
+role:Pharmacist
+username:3c
+password:3c
+role:Customer
